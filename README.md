@@ -175,7 +175,7 @@ python -m mujoco.viewer
 
 | Path | Description |
 |------|-------------|
-| `assets/x2/` | FF Master humanoid (ultra / hand / fist variants) |
+| `assets/ff-master/` | FF Master humanoid (ultra / hand / fist variants) |
 | `assets/zsl-1/` | ZSL-1 robot URDF / MuJoCo model |
 | `examples/` | Example run scripts |
 | `model_catalog.json` | Reference list of recommended open-source robot models |
