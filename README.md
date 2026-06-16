@@ -18,12 +18,9 @@ Every entry is scored by an AI judge panel.
 
 | | |
 |---|---|
-| 📝 Register / get your contest UUID | _coming soon_ |
-| 📖 Full tutorial | _coming soon_ |
-| 📜 Official rules | _coming soon_ |
-| 💬 Questions & support | _coming soon_ |
-
-> These links will be finalized before the contest opens.
+| 📝 Register / get your contest UUID | [robothon.ff.com](https://robothon.ff.com) |
+| 📜 Official rules | [robothon.ff.com/official-rules](https://robothon.ff.com/official-rules) |
+| 💬 Questions & support | [Discord](https://discord.gg/gSStjCWA) |
 
 ---
 

@@ -18,12 +18,9 @@
 
 | | |
 |---|---|
-| 📝 报名 / 获取参赛 UUID | _即将上线_ |
-| 📖 完整教程 | _即将上线_ |
-| 📜 官方规则 | _即将上线_ |
-| 💬 提问与支持 | _即将上线_ |
-
-> 以上链接将在比赛开始前补全。
+| 📝 报名 / 获取参赛 UUID | [robothon.ff.com](https://robothon.ff.com) |
+| 📜 官方规则 | [robothon.ff.com/official-rules](https://robothon.ff.com/official-rules) |
+| 💬 提问与支持 | [Discord](https://discord.gg/gSStjCWA) |
 
 ---
 
